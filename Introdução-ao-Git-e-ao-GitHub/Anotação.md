@@ -26,14 +26,15 @@ para primeiro acesso;
 	$ git config --global user.name "usuário"
 	
 
-	$git add* 
+	$git add *
 	$git commit -m "commit inicial" [ isso é a msg do commit] 
+	$git push origin
 	$git status
 
 cire uma conta no github ou log.
 crie um repositório
 
-no terminal digite;
+Terminal digite;
 	$git remote add origin https:??
 	$git remote -v : lista de repositório cadastrado
 	$git push origin master
