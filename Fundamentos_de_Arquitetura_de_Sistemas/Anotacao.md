@@ -6,7 +6,7 @@ São API's que se comunicam por meio de redes sobre o protocolo HTTP.
 
 
 
-![](/home/cleber/Imagens/img0.png)
+![](https://drive.google.com/file/d/1VUMawB-wesNPVeH0jrS_Ukfs1BnSRqQY/view?usp=sharing)
 
 ## Vantagens
 
