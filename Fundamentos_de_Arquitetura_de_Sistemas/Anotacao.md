@@ -1,6 +1,6 @@
 ### Serviços Web
 
-São soluções para aplicações se comunicarem independente de liguagem, softwres e hrdwares utilizados.
+São soluções para aplicações se comunicarem independente de linguagem, softwares e hardwares utilizados.
 
 São API's que se comunicam por meio de redes sobre o protocolo HTTP.
 
@@ -40,9 +40,9 @@ São API's que se comunicam por meio de redes sobre o protocolo HTTP.
 
 - SOAP Envelope é o primeiro elemento do documento e é usado para encapsular toda a mensagem SOAP
 
-- SOAP Header éo elemento onde possui informações de atributos e metadados de requisição.
+- SOAP Header é o elemento onde possui informações de atributos e metadados de requisição.
 
-- SOAP Body éo elemento que contém os detalhes da mensagem.
+- SOAP Body é o elemento que contém os detalhes da mensagem.
 
   #### Exemplo;
 
