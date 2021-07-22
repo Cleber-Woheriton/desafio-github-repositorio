@@ -9,7 +9,7 @@ São soluções para aplicações se comunicarem independente de linguagem, soft
 
 São API's que se comunicam por meio de redes sobre o protocolo HTTP.
 
-![img](https://uploaddeimagens.com.br/imagens/8rbpc_8)
+![img](https://github.com/Cleber-Woheriton/desafio-github-repositorio/blob/main/Fundamentos_de_Arquitetura_de_Sistemas/img0.png?raw=true)
 
 ## Vantagens
 
