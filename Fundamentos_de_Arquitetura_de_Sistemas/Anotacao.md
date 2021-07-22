@@ -1,14 +1,17 @@
+---
+typora-copy-images-to: upload
+---
+
 ### Serviços Web
 
 São soluções para aplicações se comunicarem independente de linguagem, softwares e hardwares utilizados.
 
 São API's que se comunicam por meio de redes sobre o protocolo HTTP.
 
+- ![img](/home/cleber/Imagens/img0.png)
 
+- ## Vantagens
 
-![]()
-
-## Vantagens
 
 - Linguagem comum
 - Integração
