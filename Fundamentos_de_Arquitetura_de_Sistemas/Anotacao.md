@@ -38,7 +38,7 @@ São API's que se comunicam por meio de redes sobre o protocolo HTTP.
 
   
 
-![](/home/cleber/Imagens/img01.png)
+![img1](https://github.com/Cleber-Woheriton/desafio-github-repositorio/blob/main/Fundamentos_de_Arquitetura_de_Sistemas/img01.png?raw=true)
 
 
 
@@ -50,6 +50,6 @@ São API's que se comunicam por meio de redes sobre o protocolo HTTP.
 
   #### Exemplo;
 
-  ![](/home/cleber/Imagens/img02.png)
+  ![img2](https://github.com/Cleber-Woheriton/desafio-github-repositorio/blob/main/Fundamentos_de_Arquitetura_de_Sistemas/img02.png?raw=true)
 
 n
