@@ -1,5 +1,6 @@
 ---
 typora-copy-images-to: upload
+
 ---
 
 ### Serviços Web
@@ -8,9 +9,9 @@ São soluções para aplicações se comunicarem independente de linguagem, soft
 
 São API's que se comunicam por meio de redes sobre o protocolo HTTP.
 
-- ![img](/home/cleber/Imagens/img0.png)
+![img](https://uploaddeimagens.com.br/imagens/8rbpc_8)
 
-- ## Vantagens
+## Vantagens
 
 
 - Linguagem comum
@@ -51,3 +52,4 @@ São API's que se comunicam por meio de redes sobre o protocolo HTTP.
 
   ![](/home/cleber/Imagens/img02.png)
 
+n
