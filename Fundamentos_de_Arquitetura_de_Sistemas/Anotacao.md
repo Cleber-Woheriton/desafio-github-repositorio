@@ -78,9 +78,9 @@ Em seguida inicia um serviço SOAP, clicando em SOAP, irá ser exibida a seguint
 
 Com o novo projeto SOAP aberto, insira as informações necessárias para o novo serviço, como na seguinte imagem:
 
-![](https://github.com/Cleber-Woheriton/desafio-github-repositorio/blob/main/Fundamentos_de_Arquitetura_de_Sistemas/img/img06.png?raw=true)
+![img06](https://github.com/Cleber-Woheriton/desafio-github-repositorio/blob/main/Fundamentos_de_Arquitetura_de_Sistemas/img/img06.png?raw=true)
 
-No campo WSDL colei o link http://soapclient.com/xml/soapresponder.wsdl, em seguida ele preenche o campo nome automático, em seguida ok.
+No campo WSDL colei o link http://soapclient.com/xml/soapresponder.wsdl, ele preenche o campo nome automático, em seguida ok.
 
-Irá criar um novo projeto, binding e os métodos já definidos na XSD e o WSDL. 
+Irá criar um novo projeto, binding e os métodos já definidos na XSD e o WSDL, e poderá ser executado e poderá ver o seu funcionamento na prática. 
 
