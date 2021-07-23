@@ -9,7 +9,7 @@ São soluções para aplicações se comunicarem independente de linguagem, soft
 
 São API's que se comunicam por meio de redes sobre o protocolo HTTP.
 
-![img](https://github.com/Cleber-Woheriton/desafio-github-repositorio/blob/main/Fundamentos_de_Arquitetura_de_Sistemas/img0.png?raw=true)
+![img](https://github.com/Cleber-Woheriton/desafio-github-repositorio/blob/main/Fundamentos_de_Arquitetura_de_Sistemas/img/img0.png?raw=true)
 
 ## Vantagens
 
@@ -38,7 +38,7 @@ São API's que se comunicam por meio de redes sobre o protocolo HTTP.
 
   
 
-![img1](https://github.com/Cleber-Woheriton/desafio-github-repositorio/blob/main/Fundamentos_de_Arquitetura_de_Sistemas/img01.png?raw=true)
+![img1](https://github.com/Cleber-Woheriton/desafio-github-repositorio/blob/main/Fundamentos_de_Arquitetura_de_Sistemas/img/img01.png?raw=true)
 
 
 
@@ -50,7 +50,7 @@ São API's que se comunicam por meio de redes sobre o protocolo HTTP.
 
   #### Exemplo;
 
-  ![img2](https://github.com/Cleber-Woheriton/desafio-github-repositorio/blob/main/Fundamentos_de_Arquitetura_de_Sistemas/img02.png?raw=true)
+  ![img2](https://github.com/Cleber-Woheriton/desafio-github-repositorio/blob/main/Fundamentos_de_Arquitetura_de_Sistemas/img/img02.png?raw=true)
 
 ### WSDL
 
@@ -60,7 +60,7 @@ WSDL (Web Services Description Language), usado para descrever Web Services, fun
 
 XSD (XML Schema Definition), é um schema no formato XML usado para definir a estrutura de dados que será validada no XML, o XSD funciona como uma documentação de como deve ser montado o SOAP Message (XML) que será enviado através de Web Service.
 
-![img03](https://github.com/Cleber-Woheriton/desafio-github-repositorio/blob/main/Fundamentos_de_Arquitetura_de_Sistemas/img03.png?raw=true)
+![img03](https://github.com/Cleber-Woheriton/desafio-github-repositorio/blob/main/Fundamentos_de_Arquitetura_de_Sistemas/img/img03.png?raw=true)
 
 [Link da imagem](http://soapclient.com/xml/soapresponder.wsdl 
 
@@ -69,4 +69,18 @@ XSD (XML Schema Definition), é um schema no formato XML usado para definir a es
 Nesta etapa será usado a ferramenta Open Source do SOAP, caso gostaria de baixar, deixarei o [link.](https://www.soapui.org/downloads/soapui/)
 
 Ao instalar a ferramenta e abrir será exibido a seguinte interface; 
+
+![img04](https://github.com/Cleber-Woheriton/desafio-github-repositorio/blob/main/Fundamentos_de_Arquitetura_de_Sistemas/img/img04.png?raw=true)
+
+Em seguida inicia um serviço SOAP, clicando em SOAP, irá ser exibida a seguinte janela;
+
+![img05](https://github.com/Cleber-Woheriton/desafio-github-repositorio/blob/main/Fundamentos_de_Arquitetura_de_Sistemas/img/img05.png?raw=true)
+
+Com o novo projeto SOAP aberto, insira as informações necessárias para o novo serviço, como na seguinte imagem:
+
+![](https://github.com/Cleber-Woheriton/desafio-github-repositorio/blob/main/Fundamentos_de_Arquitetura_de_Sistemas/img/img06.png?raw=true)
+
+No campo WSDL colei o link http://soapclient.com/xml/soapresponder.wsdl, em seguida ele preenche o campo nome automático, em seguida ok.
+
+Irá criar um novo projeto, binding e os métodos já definidos na XSD e o WSDL. 
 
