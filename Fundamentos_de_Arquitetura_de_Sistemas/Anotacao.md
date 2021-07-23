@@ -52,4 +52,19 @@ São API's que se comunicam por meio de redes sobre o protocolo HTTP.
 
   ![img2](https://github.com/Cleber-Woheriton/desafio-github-repositorio/blob/main/Fundamentos_de_Arquitetura_de_Sistemas/img02.png?raw=true)
 
-n
+### WSDL
+
+WSDL (Web Services Description Language), usado para descrever Web Services, funciona como um contrato do serviço. A descrição é feita em um documento XML, onde é descrito o serviço, especificações de acesso, operações e métodos.
+
+### XSD
+
+XSD (XML Schema Definition), é um schema no formato XML usado para definir a estrutura de dados que será validada no XML, o XSD funciona como uma documentação de como deve ser montado o SOAP Message (XML) que será enviado através de Web Service.
+
+
+
+[Link]: http://soapclient.com/xml/soapresponder.wsdl	"Exemplo de um serviço público."
+
+
+
+### SOAP na prática
+
