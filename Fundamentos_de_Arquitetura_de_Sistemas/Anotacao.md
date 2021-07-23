@@ -60,9 +60,9 @@ WSDL (Web Services Description Language), usado para descrever Web Services, fun
 
 XSD (XML Schema Definition), é um schema no formato XML usado para definir a estrutura de dados que será validada no XML, o XSD funciona como uma documentação de como deve ser montado o SOAP Message (XML) que será enviado através de Web Service.
 
+![img03](https://github.com/Cleber-Woheriton/desafio-github-repositorio/blob/main/Fundamentos_de_Arquitetura_de_Sistemas/img03.png?raw=true)
 
-
-[Link]: http://soapclient.com/xml/soapresponder.wsdl	"Exemplo de um serviço público."
+[Link da imagem](http://soapclient.com/xml/soapresponder.wsdl 
 
 
 
