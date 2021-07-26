@@ -115,3 +115,13 @@ Exemplo;
 
 ![img08](https://github.com/Cleber-Woheriton/desafio-github-repositorio/blob/main/Fundamentos_de_Arquitetura_de_Sistemas/img/img08.png?raw=true)
 
+### Código de Estado
+
+O código de estado é usado pelo servidor para avisar o cliente sobre o estado da operação solicitada. [link para consulta especificada.](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status)
+
+- Cód 100 + = Informativo.
+- Cód 200 + = Sucesso.
+- Cód 300 + = Redirecionamento.
+- Cód 400 + = Erro do Cliente.
+- Cód 500 + = Erro do Servidor.
+
