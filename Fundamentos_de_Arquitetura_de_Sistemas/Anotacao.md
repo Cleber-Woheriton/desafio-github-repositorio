@@ -86,11 +86,27 @@ Irá criar um novo projeto, binding e os métodos já definidos na XSD e o WSDL,
 
 ### REST
 
-Rest ()
+Rest (Representational State Transfer - Transferência Representacional de Estado), é um estilo de arquitetura (design de arquitetura) de software que define a implementação de um serviço web. Podem trabalhar comos formatos XML, JSON ou outros.
 
 #### Vantagens de se utilizar o REST
 
+Permite integração entre aplicações e também entre cliente e servidor em páginas web e aplicações, utiliza dos métodos HTTP para definir a operação que está sendo efetuada. e possuí uma arquitetura de fácil compreensão.
 
+Estrutura do REST
+
+![img07](https://github.com/Cleber-Woheriton/desafio-github-repositorio/blob/main/Fundamentos_de_Arquitetura_de_Sistemas/img/img07.png?raw=true)
 
 ### API
 
+API (Application Programming Interface), são conjuntos de rotinas documentos e disponibilizados por uma aplicação para que outras aplicações possam consumir suas funcionalidades. Ficou popular com o aumento dos serviços web, as maiores plataformas de tecnologia disponibilizam APIs para acessos de suas funcionalidades, algumas delas são: Facebook, Twitter, Telegram, Whatsapp, GitHub... 
+
+### Principais Métodos HTTP
+
+- GET - Solicita a representação de um recurso.
+- POST - Solicita  a criação de um recurso.
+- DELETE - Solicita a exclusão de um recurso.
+- PUT - Solicita a atualização de um recurso.
+
+### JSON
+
+JSON (JavaScript Object Notation), possuí uma formatação leve utilizada para troca de mensagens entre sistemas, usa-se de uma estrutura de chave e valor e também de listas ordenadas. Um dos formatos mais populares e mais utilizados para troca de mensagens entre sistemas.
