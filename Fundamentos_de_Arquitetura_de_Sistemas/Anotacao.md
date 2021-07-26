@@ -110,3 +110,8 @@ API (Application Programming Interface), são conjuntos de rotinas documentos e 
 ### JSON
 
 JSON (JavaScript Object Notation), possuí uma formatação leve utilizada para troca de mensagens entre sistemas, usa-se de uma estrutura de chave e valor e também de listas ordenadas. Um dos formatos mais populares e mais utilizados para troca de mensagens entre sistemas.
+
+Exemplo;
+
+![img08](https://github.com/Cleber-Woheriton/desafio-github-repositorio/blob/main/Fundamentos_de_Arquitetura_de_Sistemas/img/img08.png?raw=true)
+
