@@ -84,3 +84,13 @@ No campo WSDL colei o link http://soapclient.com/xml/soapresponder.wsdl, ele pre
 
 Irá criar um novo projeto, binding e os métodos já definidos na XSD e o WSDL, e poderá ser executado e poderá ver o seu funcionamento na prática. 
 
+### REST
+
+Rest ()
+
+#### Vantagens de se utilizar o REST
+
+
+
+### API
+
