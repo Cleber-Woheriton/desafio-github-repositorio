@@ -32,7 +32,7 @@ body {
     width: 50%;
 }
 
-.instagram-phone img {
+.instagram-phone img { /*tamanho da imagem do celular */
     height: 50rem;
 }
 
@@ -41,7 +41,7 @@ body {
     align-items: center; /* horizontal */
     justify-content: space-around; /* vertical */
     flex-direction: column;
-    width: 50%;
+    width: 45%;
     min-height: 34rem;
 }
 
@@ -64,7 +64,7 @@ body {
     height: 3rem;
 }
 
-.profile-photo {
+.profile-photo { /* foto do perfil */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -73,7 +73,7 @@ body {
 }
 
 .profile-photo img {
-    height: 6rem;
+    height: 8rem;
 }
 
 .instagram-login {
@@ -102,7 +102,7 @@ body {
     align-items: center;
     justify-content: center;
     width: 100%;
-    padding: 1.3rem 0;
+    padding: 1.5rem 0;
 }
 
 .download {
@@ -114,8 +114,8 @@ body {
 }
 
 .app-download {
-    height: 3rem;
-    width: 10rem;
+    height: 2.8rem;
+    width: 9rem;
     background-size: cover;
 }
 
@@ -125,6 +125,10 @@ body {
 
 .app-download:nth-child(2) {
     background-image: url('./img/googleplay-button.png');
+}
+
+.app-download:nth-child(3) {
+    background-image: url('./img/microsoft.png');
 }
 
 /* media queries */
