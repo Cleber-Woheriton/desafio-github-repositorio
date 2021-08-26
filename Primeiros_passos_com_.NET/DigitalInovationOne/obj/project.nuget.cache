@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Fz4EI2VD16uilMvLom1lUQ0VVn/rLPcxZDjZBPFl5jHoy+/vi/u0epJjMDMyrnvhfSFIRTlB1uyTZ5j2Mpro/w==",
+  "dgSpecHash": "Zv4j5evk923wjmvC9cbpn50YHIHM5rgNaXh3j61CaMw6b2/UXeF5i1avbAy37v9YfsW3ra9rCxyxSEAM/QD+Ow==",
   "success": true,
   "projectFilePath": "/home/cleber/Área de Trabalho/GitHub-DIO/desafio-github-repositorio/Primeiros_passos_com_.NET/DigitalInovationOne/DigitalInovationOne.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/cleber/.nuget/packages/microsoft.netcore.app.ref/3.0.0/microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "/home/cleber/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "/home/cleber/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.0.3/microsoft.netcore.app.host.linux-x64.3.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

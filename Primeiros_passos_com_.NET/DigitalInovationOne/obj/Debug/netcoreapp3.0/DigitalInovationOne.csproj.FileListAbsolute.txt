@@ -1,0 +1,13 @@
+/home/cleber/Área de Trabalho/GitHub-DIO/desafio-github-repositorio/Primeiros_passos_com_.NET/DigitalInovationOne/bin/Debug/netcoreapp3.0/DigitalInovationOne
+/home/cleber/Área de Trabalho/GitHub-DIO/desafio-github-repositorio/Primeiros_passos_com_.NET/DigitalInovationOne/bin/Debug/netcoreapp3.0/DigitalInovationOne.deps.json
+/home/cleber/Área de Trabalho/GitHub-DIO/desafio-github-repositorio/Primeiros_passos_com_.NET/DigitalInovationOne/bin/Debug/netcoreapp3.0/DigitalInovationOne.runtimeconfig.json
+/home/cleber/Área de Trabalho/GitHub-DIO/desafio-github-repositorio/Primeiros_passos_com_.NET/DigitalInovationOne/bin/Debug/netcoreapp3.0/DigitalInovationOne.runtimeconfig.dev.json
+/home/cleber/Área de Trabalho/GitHub-DIO/desafio-github-repositorio/Primeiros_passos_com_.NET/DigitalInovationOne/bin/Debug/netcoreapp3.0/DigitalInovationOne.dll
+/home/cleber/Área de Trabalho/GitHub-DIO/desafio-github-repositorio/Primeiros_passos_com_.NET/DigitalInovationOne/bin/Debug/netcoreapp3.0/DigitalInovationOne.pdb
+/home/cleber/Área de Trabalho/GitHub-DIO/desafio-github-repositorio/Primeiros_passos_com_.NET/DigitalInovationOne/obj/Debug/netcoreapp3.0/DigitalInovationOne.csprojAssemblyReference.cache
+/home/cleber/Área de Trabalho/GitHub-DIO/desafio-github-repositorio/Primeiros_passos_com_.NET/DigitalInovationOne/obj/Debug/netcoreapp3.0/DigitalInovationOne.AssemblyInfoInputs.cache
+/home/cleber/Área de Trabalho/GitHub-DIO/desafio-github-repositorio/Primeiros_passos_com_.NET/DigitalInovationOne/obj/Debug/netcoreapp3.0/DigitalInovationOne.AssemblyInfo.cs
+/home/cleber/Área de Trabalho/GitHub-DIO/desafio-github-repositorio/Primeiros_passos_com_.NET/DigitalInovationOne/obj/Debug/netcoreapp3.0/DigitalInovationOne.csproj.CoreCompileInputs.cache
+/home/cleber/Área de Trabalho/GitHub-DIO/desafio-github-repositorio/Primeiros_passos_com_.NET/DigitalInovationOne/obj/Debug/netcoreapp3.0/DigitalInovationOne.dll
+/home/cleber/Área de Trabalho/GitHub-DIO/desafio-github-repositorio/Primeiros_passos_com_.NET/DigitalInovationOne/obj/Debug/netcoreapp3.0/DigitalInovationOne.pdb
+/home/cleber/Área de Trabalho/GitHub-DIO/desafio-github-repositorio/Primeiros_passos_com_.NET/DigitalInovationOne/obj/Debug/netcoreapp3.0/DigitalInovationOne.genruntimeconfig.cache

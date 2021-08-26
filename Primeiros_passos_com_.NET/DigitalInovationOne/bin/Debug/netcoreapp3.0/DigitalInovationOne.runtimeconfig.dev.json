@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/cleber/.dotnet/store/|arch|/|tfm|",
+      "/home/cleber/.nuget/packages"
+    ]
+  }
+}
