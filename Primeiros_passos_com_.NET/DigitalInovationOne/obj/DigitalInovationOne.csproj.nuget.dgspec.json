@@ -1,0 +1,43 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/cleber/Área de Trabalho/GitHub-DIO/desafio-github-repositorio/Primeiros_passos_com_.NET/DigitalInovationOne/DigitalInovationOne.csproj": {}
+  },
+  "projects": {
+    "/home/cleber/Área de Trabalho/GitHub-DIO/desafio-github-repositorio/Primeiros_passos_com_.NET/DigitalInovationOne/DigitalInovationOne.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/cleber/Área de Trabalho/GitHub-DIO/desafio-github-repositorio/Primeiros_passos_com_.NET/DigitalInovationOne/DigitalInovationOne.csproj",
+        "projectName": "DigitalInovationOne",
+        "projectPath": "/home/cleber/Área de Trabalho/GitHub-DIO/desafio-github-repositorio/Primeiros_passos_com_.NET/DigitalInovationOne/DigitalInovationOne.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/home/cleber/Área de Trabalho/GitHub-DIO/desafio-github-repositorio/Primeiros_passos_com_.NET/DigitalInovationOne/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/root/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.412/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
